@@ -1,4 +1,4 @@
-####################################### Challenge-Plugin-EN ##############################################
+############################ Challenge-Plugin-EN ############################
 
 This Plugin is an Translation of the Orginal Challenge Plugin on the Spigot Website by Friedhof22
 
